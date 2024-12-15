@@ -52,6 +52,7 @@ cd Implementing-a-microservices-application-for-Billing
 1. Running the services:
 
 ![img.png](assets/img.png)
+
 2. Eureka server :
 
 ![img_1.png](assets/img_1.png)
